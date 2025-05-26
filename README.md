@@ -1,6 +1,4 @@
-
-# 생활구독추천 서비스
-
-https://github.com/cna-bootcamp/lifesub-web.git
+# 🛒생활구독추천 서비스
+> https://github.com/cna-bootcamp/lifesub-web.git
 
 
