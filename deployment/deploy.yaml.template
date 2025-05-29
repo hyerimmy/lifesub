@@ -325,7 +325,8 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-    - http:
+    - host: dg0402.20.214.196.128.nip.io
+      http:
         paths:
           - path: /api/auth
             pathType: Prefix
